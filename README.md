@@ -31,7 +31,7 @@ By the end of this module, you will be able to:
 5.	Describe and simulate image processing in a small neural network.
 6.	Implement and train a perceptron using TensorFlow.
 
-* Presentation [02_neural_network_advanced.pdf](02_neural_network_advanced.pdf)
+* Presentation [02_neural_network_advanced.pdf](presentations/02_neural_network_advanced.pdf)
 * [Handout](02_neural_network_advanced.pdf)
 * [02.1_code_a_perceptron.ipynb](02.1_code_a_perceptron.ipynb)
 * [02.2_mnist_classifier.ipynb](02.2_mnist_classifier.ipynb)
@@ -44,7 +44,7 @@ By the end of this module, you will be able to:
 3.	Describe optimizers.
 4.	Experiment with hyperparameter tuning.
 
-* Presentation [03_optimization_algorithms.pdf](03_optimization_algorithms.pdf)
+* Presentation [03_optimization_algorithms.pdf](presentations/03_optimization_algorithms.pdf)
 * [Handout](03_optimization_algorithms.pdf)
 * [03_bees_vs_wasps.ipynb](03_bees_vs_wasps.ipynb)
 
